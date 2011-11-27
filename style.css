@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+.credits-page-plugins div.credits-page-plugin{
+	margin-bottom:20px;
+}
+.credits-page-plugins .credits-page-plugin .credits-page-plugin-name{
+	background-color:#FFFFFF;
+	font-family:Vera,Helvetica,Georgia;
+	font-size:24px;
+	font-weight:400;
+	letter-spacing:-1px;
+	margin:10px 0 3px;
+	padding-bottom:3px;
+}
